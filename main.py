@@ -174,7 +174,7 @@ trt.goto(-65, 108)
 quadBeCurve(-65, 108, -78, 94, -64, 73, 0.05)
 
 # bars
-trt.color("darkgray")
+trt.color("#4F4949")
 trt.penup()
 trt.goto(-162, -95)
 trt.pendown()
