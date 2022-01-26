@@ -344,6 +344,7 @@ gotodot(-52, 72)
 
 trt.color("black")
 gotodot(-49, 73, 3)
+quadBeCurve(-45, 70, -50, 69, -53, 72)
 
 trt.color("white")
 quadBeCurve(-43, 69, -51, 83, -58, 73)
