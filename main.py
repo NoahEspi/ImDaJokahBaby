@@ -166,7 +166,7 @@ trt.color("white")
 trt.pensize(2)
 quadBeCurve(-38, 40, -29, 39, -19, 61)
 
-
+trt.color("wheat")
 cubeBeCurve(-32, 41, -35, 29, -50, 30, -50, 44)
 
 # hair
@@ -360,7 +360,7 @@ quadBeCurve(-37, 70, -34, 66, -22, 64)
 quadBeCurve(-48, 58, -44, 62, -44, 67)
 quadBeCurve(-27, 56, -32, 56, -36, 63)
 cubeBeCurve(-56, 83, -44, 79, -39, 86, -32, 82)
-# cubeBeCurve(-49, 88, -45, 88, -39, 84, -35, 86)
+quadBeCurve(-55, 88, -52, 89, -45, 87)
 
 # hair details
 trt.color("green")
