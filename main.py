@@ -13,7 +13,7 @@ trt.color("white")
 
 trt.penup()
 trt.goto(-148, 111)
-trt.write("It takes a while to get to the final. \n It'll get there, though, I promise.")
+trt.write("It takes a while to finish drawing, but it'll get there, I promise. \nI'm just testing your patience. Patience is a virtue, you know.")
 
 
 # finds position of a point in order to make the Bézier curves easier
@@ -321,6 +321,10 @@ quadBeCurve(-35, 72, -32, 72, -31, 75)
 quadBeCurve(-29, 72, -27, 75, -31, 75)
 trt.end_fill()
 
+trt.color("black")
+quadBeCurve(-35, 72, -32, 69, -29, 72)
+
+trt.color("white")
 gotodot(-30, 73)
 gotodot(-50, 72, 3)
 
@@ -404,7 +408,7 @@ trt.end_fill()
 trt.color("white")
 trt.penup()
 trt.goto(-148, 111)
-trt.write("Done!")
+trt.write("Okay, it's done!")
 
 time.sleep(2)
 
