@@ -351,7 +351,7 @@ quadBeCurve(-37, 70, -34, 66, -22, 64)
 quadBeCurve(-48, 58, -44, 62, -44, 67)
 quadBeCurve(-27, 56, -32, 56, -36, 63)
 cubeBeCurve(-56, 83, -44, 79, -39, 86, -32, 82)
-cubeBeCurve(-49, 88, -45, 88, -39, 84, -35, 86)
+# cubeBeCurve(-49, 88, -45, 88, -39, 84, -35, 86)
 
 # hair details
 trt.color("green")
