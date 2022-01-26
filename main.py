@@ -16,7 +16,7 @@ trt.color("white")
 turtle.title("Da Jokah in da prison ")
 
 trt.penup()
-trt.goto(-148, 111)
+trt.goto(-163, 110)
 trt.write("It takes a while to finish drawing, but it'll get there, I promise. \nI'm just testing your patience. Patience is a virtue, you know.")
 
 
